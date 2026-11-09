@@ -36,4 +36,4 @@ automatic-file-organizer/
 - .gitignore
 
 ## Author
-Your Name
+Thandu Hema vardini
